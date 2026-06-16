@@ -1,5 +1,7 @@
 #  About Me:
-I'm currently working on improving my developer skills,(HTML, CSS and  JavaScript) and  learning bash scripting.<br>I'm curretly working on a portfolio
+I'm currently working on improving my developer skills,(HTML, CSS and  JavaScript) and  learning bash scripting.<br>I'm currently doing small projects to test and improve my skills.
+
+I'm an  Entrepreneur, CTO and sysadmin.
 
 
 #  Tech Stack:
