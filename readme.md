@@ -34,6 +34,8 @@
 # GitHub Stats:
 
 <img src="https://github-stats-extended.vercel.app/api?username=hohops&rank_icon=github&custom_title=Hohops&show_icons=true&include_all_commits=true&theme=swift" width="100%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hohops&theme=github_dark" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hohops&theme=github_dark" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hohops&theme=github_dark" width="59%">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hohops&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hohops&theme=github_dark" width="48%" />
+</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hohops&theme=github_dark" width="100%">
