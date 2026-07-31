@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/hohops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Sysadmin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Sysadmin;DevOps" alt="Typing SVG" />
   </a>
 </p>
 
