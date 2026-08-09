@@ -23,7 +23,7 @@
     <div>hohops</div>
     <br/>
     <div style="color:#7C858F">$ cat about.txt</div>
-    <div>Web developer, sysadmin and devops. Front end, back end,</div>
+    <div>Web developer, sysadmin and devops. Front end,</div>
     <div>and the servers between them.</div>
   </div>
 </div>
