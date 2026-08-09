@@ -1,7 +1,7 @@
 <div align="center" style="margin:12px 0">
 <div style="background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;max-width:720px;width:100%;text-align:left;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
 
-<div style="background:#15181B;border-bottom:1px solid #5C4A1E;padding:7px 14px;color:#7C858F;font-size:12px">hohops@github: ~</div>
+<div style="background:#7FFF00;border-bottom:1px solid #7FFF00;padding:7px 14px;color:#7FFF00;font-size:12px">hohops@github: ~</div>
 
 <div style="padding:16px 20px;background:#0B0D0F;color:#E9E4DA;font-size:13px;line-height:1.6">
 <p style="margin:0 0 10px 0;color:#7C858F">[hohops@github ~]# whoami</p>
