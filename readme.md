@@ -9,14 +9,6 @@
 ██║  ██║╚██████╔╝██║  ██║╚██████╔╝██║     ███████║
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝</span>
 <span style="color:#FFD166">hohops@github:~$</span> systemctl status hohops.service
-<span style="color:#6FCF7F">&#9679;</span> hohops &mdash; web developer &middot; sysadmin &middot; devops
-  Loaded: loaded
-  Active: <span style="color:#6FCF7F">active (running)</span></pre>
-    <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500" style="max-width:100%;display:block;margin:0 auto" alt="typing code in a terminal" loading="lazy" />
-    <div style="background:#15181B;border-top:1px solid #5C4A1E;padding:6px 14px;color:#7C858F;font-size:12px"><span style="color:#6FCF7F">&#9679;</span> active (running) &nbsp;&nbsp;&nbsp; hohops@github: ~</div>
-  </div>
-</div>
-
 <div align="center" style="margin:24px 0 8px">
   <div style="display:inline-block;margin:0;padding:14px 20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;color:#E9E4DA;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;font-size:14px;line-height:1.6;max-width:640px;width:100%;box-sizing:border-box">
     <div style="color:#7C858F">$ whoami</div>
