@@ -1,63 +1,36 @@
-<div align="center" style="margin:12px 0">
-  <div style="background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;max-width:720px;width:100%;text-align:left;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
-    <div style="background:#15181B;border-bottom:1px solid #5C4A1E;padding:7px 14px;color:#7C858F;font-size:12px">hohops@github: ~</div>
-    <pre style="margin:0;padding:16px 20px;background:#0B0D0F;color:#E9E4DA;line-height:1.2;font-size:12px;overflow-x:auto;text-align:left"><span style="color:#7C858F">[hohops@github ~]# figlet hohops</span>
-<span style="color:#FFD166">██╗  ██╗ ██████╗ ██╗  ██╗ ██████╗ ██████╗ ███████╗
-██║  ██║██╔═══██╗██║  ██║██╔═══██╗██╔══██╗██╔════╝
-███████║██║   ██║███████║██║   ██║██████╔╝███████╗
-██╔══██║██║   ██║██╔══██║██║   ██║██╔═══╝ ╚════██║
-██║  ██║╚██████╔╝██║  ██║╚██████╔╝██║     ███████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝</span>
-<span style="color:#FFD166">hohops@github:~$</span> systemctl status hohops.service</pre>
+```console
+hohops@debian:~/my-project$ echo "Initializing project..."
+Initializing project...
 
-<div align="center" style="margin:24px 0 8px">
-      <div style="display:inline-block;margin:0;padding:14px 20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;color:#E9E4DA;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;font-size:14px;line-height:1.6;max-width:640px;width:100%;box-sizing:border-box">
-        <div style="color:#7C858F">$ whoami</div>
-        <div>hohops</div>
-        <br/>
-        <div style="color:#7C858F">$ cat about.txt</div>
-        <div>Web developer, sysadmin and devops. Front end,</div>
-        <div>and the servers between them.</div>
-      </div>
-    </div>
-<div align="center" style="margin:24px 0 8px">
-      <div style="display:inline-block;margin:0;padding:16px 20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;max-width:640px;width:100%;box-sizing:border-box;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
-        <div style="color:#FFD166;font-size:14px;margin-bottom:14px">$ apt list --installed</div>
-        <div align="center">
-          <span style="display:inline-block;margin:8px;text-align:center">
-            <div style="color:#FFB000;font-size:12px;margin-bottom:8px"># system</div>
-            <img src="https://skillicons.dev/icons?i=git,bash,linux,debian&perline=4&theme=dark" alt="git, bash, linux, debian" style="max-width:100%" />
-          </span>
-          <span style="display:inline-block;margin:8px;text-align:center">
-            <div style="color:#FFB000;font-size:12px;margin-bottom:8px"># web</div>
-            <img src="https://skillicons.dev/icons?i=html,css,react,py&perline=4&theme=dark" alt="html, css, react, python" style="max-width:100%" />
-          </span>
-          <span style="display:inline-block;margin:8px;text-align:center">
-            <div style="color:#FFB000;font-size:12px;margin-bottom:8px"># ops</div>
-            <img src="https://skillicons.dev/icons?i=docker,azure&perline=2&theme=dark" alt="docker, azure" style="max-width:100%" />
-          </span>
+hohops@debian:~/my-project$ npm install
+added 42 packages, and audited 43 packages in 2s
+found 0 vulnerabilities
+
+hohops@debian:~/my-project$ npm start
+Server running at http://localhost:3000/
+```
+
+<div align="center">
+  <table style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td valign="top" style="border: none; background: transparent; padding: 20px;">
+        <div style="display:inline-block;margin:0;padding:20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;max-width:440px;width:100%;box-sizing:border-box;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
+          <div style="color:#008000;font-size:13px;margin-bottom:12px;text-align:left;">$ htop</div>
+          <p align="center" style="margin:0">
+            <img src="https://github-stats-extended.vercel.app/api?username=hohops&rank_icon=github&custom_title=Hohops&show_icons=true&include_all_commits=true&theme=github_dark" width="100%" style="max-width:100%" loading="lazy" />
+          </p>
+          <p align="center" style="margin:8px 0 0">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hohops&theme=github_dark" width="100%" style="max-width:100%" loading="lazy" />
+          </p>
         </div>
-      </div>
-    </div>
-
-<div align="center" style="margin:24px 0 8px">
-      <div style="display:inline-block;margin:0;padding:16px 20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;max-width:720px;width:100%;box-sizing:border-box;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
-        <div style="color:#FFD166;font-size:14px;margin-bottom:14px">$ htop</div>
-        <p align="center" style="margin:0">
-          <img src="https://github-stats-extended.vercel.app/api?username=hohops&rank_icon=github&custom_title=Hohops&show_icons=true&include_all_commits=true&theme=github_dark" width="100%" style="max-width:100%" loading="lazy" />
-        </p>
-        <p align="center" style="margin:10px 0 0">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hohops&theme=github_dark" width="100%" style="max-width:100%" loading="lazy" />
-        </p>
-      </div>
-    </div>
-
-<div align="center" style="margin:24px 0 24px">
-      <div style="display:inline-block;margin:0;padding:14px 20px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;color:#7C858F;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;font-size:13px;line-height:1.6;max-width:640px;width:100%;box-sizing:border-box">
-        <div>$ echo "thanks for stopping by"</div>
-        <div>thanks for stopping by</div>
-        <div><span style="color:#6FCF7F">&#9679;</span> hohops is online</div>
-      </div>
-    </div>
-  </div>
+      </td>
+      <td valign="top" style="border: none; background: transparent; padding: 20px;">
+        <div style="display:inline-block;margin:0;padding:16px;background:#0B0D0F;border:1px solid #5C4A1E;border-radius:2px;text-align:left;color:#7C858F;font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace;font-size:12px;line-height:1.5;max-width:300px;width:100%;box-sizing:border-box">
+          <div>$ echo "thanks for stopping by"</div>
+          <div style="margin: 8px 0;">thanks for stopping by</div>
+          <div><span style="color:#6FCF7F">&#9679;</span> hohops is online</div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
