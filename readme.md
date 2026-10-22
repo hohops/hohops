@@ -8,7 +8,7 @@ up 2 years, 24/7
 hohops@debian:~$ echo "thanks for stopping by"
 thanks for stopping by
 ```
-[CV](https://github.com/hohops/hohops/blob/main/CV-Eduardo.pdf)
+| [CV](https://github.com/hohops/hohops/blob/main/CV-Eduardo.pdf) |
 <h3> </h3>
 <div align="center">
   <table style="border: none; background: transparent;">
